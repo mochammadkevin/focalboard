@@ -95,7 +95,7 @@ Sebelum Anda memulai instalasi, pastikan Anda memiliki:
 - Klik "Apply" untuk menghubungkan firewall dengan droplet tersebut.
 
 
-### Langkah 7: Instalasi Memos via Docker
+### Langkah 7: Deploy Memos dengan Docker
 
 - Buka kembali terminal di komputer Anda.
 
@@ -114,15 +114,61 @@ Sebelum Anda memulai instalasi, pastikan Anda memiliki:
     ```bash
     cd namafolder
     ```
-- Jalankan Focalboard Personal Server dengan perintah berikut:
+- Menggunakan Docker Run
     
-     ```bash
-    docker run -it -p 3000:8000 mattermost/focalboard
+    ```bash
+    docker run -d \
+      --init \
+      --name memos \
+      --publish 1000:5230 \
+      --volume ~/.memos/:/var/opt/memos \
+      ghcr.io/usememos/memos:latest
     ```
-    Catatan: port 3000 bisa disesuaikan dengan port yang ingin dipakai
+    Catatan:
 
-- Setelah menjalankan perintah di atas, Anda dapat mengakses aplikasi Focalboard melalui alamat IP Droplet yang Anda gunakan beserta port yang telah ditentukan. Contoh: http://your-droplet-ip:3000/
+    Perintah ini akan menjalankan Memos di latar belakang dan mengeksposnya pada port 5230. Data akan disimpan di ~/.memos/. Anda dapat mengubah port dan jalur direktori data sesuai kebutuhan. Namun, hanya ubah     port pertama, misalnya 1000:5230, untuk menggunakan port host yang berbeda. Port kedua mengacu pada port yang digunakan oleh Memos di dalam kontainer. Aturan yang sama berlaku untuk jalur direktori: jalur       pertama adalah di sistem host Anda, dan jalur kedua adalah di dalam kontainer.
 
+- Menggunakan Docker Compose
+
+  Untuk mendeploy Memos menggunakan Docker Compose, buat file docker-compose.yml dengan konten berikut:
+  ```bash
+    version: "3.0"
+    services:
+      memos:
+        image: neosmemo/memos:latest
+        container_name: memos
+        volumes:
+          - ~/.memos/:/var/opt/memos
+        ports:
+          - 1000:5230
+    ```
+
+  Anda dapat memulai Memos menggunakan perintah berikut:
+  ```bash
+  docker-compose up -d
+  ```
+  
+- Setelah menjalankan perintah di atas, Anda dapat mengakses aplikasi Memos melalui alamat IP Droplet yang Anda gunakan beserta port yang telah ditentukan. Contoh: http://your-droplet-ip:1000/
+
+##  Maintenance
+
+### Memperbarui Versi Memos dengan Docker
+Untuk memperbarui Memos ke versi terbaru, Anda perlu menghentikan dan menghapus kontainer lama terlebih dahulu:
+```bash
+docker stop memos && docker rm memos
+```
+
+Disarankan, tetapi opsional, untuk melakukan cadangan database:
+```bash
+cp -r ~/.memos/memos_prod.db ~/.memos/memos_prod.db.bak
+```
+
+Selanjutnya, unduh versi terbaru dengan perintah berikut:
+```bash
+docker pull ghcr.io/usememos/memos:latest
+```
+
+Terakhir, jalankan kembali Memos dengan mengikuti langkah-langkah yang ada pada langkah 7
 
 ## Cara Pemakaian
 
