@@ -174,6 +174,22 @@ Terakhir, jalankan kembali Memos dengan mengikuti langkah-langkah yang ada pada 
 
 - Tampilan aplikasi web
 - Fungsi-fungsi utama
+### Home
+Dalam home user dapat membuat memo atau note yang memiliki 3 jenis publikasi yaitu:
+- Private : note hanya dapat dilihat oleh user yang menulisnya
+- Visible to member : note hanya dapat dilihat oleh member dari sebuah kelompok
+- Public to everyone : note dapat diakses oleh semua user dari memos
+Dengan menekan button vertical ellipses yang terdapat pada note user dapat melakukan pin, archive, edit, mark, dan delete terhadap note yang telah dipublishnya.
+### Daily Review
+Dalam daily review user dapat melihat semua note yang telah dipublish oleh user pada tanggal tertentu, selain itu user juga dapa mengunduh note yang telah dipublishnya melalui halaman ini.
+### Resources
+
+### Explore
+Pada halaman explore user dapat melihat note yang telah dipublish oleh user lain baik itu notes yang bersifat visible to memeber atau public to everyone
+### Archive
+Pada halaman archive ini user dapat melihat note yang telah di archivenya pada halaman home. user kemudian dapat memilih untuk me-restore atau delete note yang telah di archivenya.
+### Setting
+Pada halaman ini user dapa melakukan kostumisasi terhadap akunnya. Kostumisasi terbagi menjadi 2 yaitu My Account dan Preference. pada My account user dapat melakukan kostumisasi terhadap Username, email, dan nickname dengan menekan button edit. user juga dapat merubah password yang dimilika dengan menekan tombol change password. pada bagian preference user dapat melakukan kostumisisasi terhadap tema, bahasa, default jenis publikasi notenya, daily review time offset, dan user dapat menyalakan preferensi double klik untuk melakukan edit. bagian preferensi ini apa bila user memiliki telegram bot yang biasa digunakan untuk menyimpan note, user dapat memasukan id botnya agar note dapat dikirimkan menuju bot penyimpanan note yang dimiliki oleh user.
 - Isi dengan data real/dummy (jangan kosongan) dan sertakan beberapa screenshot
 
 
