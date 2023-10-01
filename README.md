@@ -9,13 +9,13 @@ Website Memos adalah platform yang memungkinkan pengguna untuk membuat, menyimpa
 
 - **Pembuatan Catatan**: Buat catatan dengan mudah melalui antarmuka yang sederhana dan ramah pengguna.
 
-- **Penyimpanan Aman**: Data Anda aman dengan kami. Kami mengambil privasi pengguna sangat serius.
+- **Penyimpanan Aman**: Data disimpan dengan keamanan terjamin.
 
-- **Berbagi Catatan**: Bagikan catatan Anda dengan orang lain dengan cepat melalui tautan unik.
+- **Berbagi Catatan**: Bagikan catatan dengan orang lain dengan cepat melalui tautan unik.
 
-- **Pencarian Cepat**: Temukan catatan yang Anda butuhkan dengan cepat menggunakan fitur pencarian.
+- **Pencarian Cepat**: Temukan catatan yang dibutuhkan dengan cepat menggunakan fitur pencarian.
 
-- **Dukungan Multi-Platform**: Akses catatan Anda di semua perangkat dengan dukungan multi-platform.
+- **Dukungan Multi-Platform**: Akses catatan di semua perangkat dengan dukungan multi-platform.
 
 
 ## Instalasi
@@ -81,8 +81,8 @@ Sebelum Anda memulai instalasi, pastikan Anda memiliki:
 - Klik tombol "Create Firewall".
 
 - Isi informasi berikut:
-   - **Name**: Beri nama firewall Anda (misalnya, "Custom-Port-3000").
-   - **Inbound Rules**: Tambahkan aturan untuk membuka port 3000. Pilih "Add Rule", pilih "TCP" sebagai protokol, dan masukkan "3000" sebagai port.
+   - **Name**: Beri nama firewall Anda (misalnya, "Custom-Port-1000").
+   - **Inbound Rules**: Tambahkan aturan untuk membuka port 1000. Pilih "Add Rule", pilih "TCP" sebagai protokol, dan masukkan "3000" sebagai port.
 
 - Klik "Create Firewall" untuk membuat firewall.
 
@@ -90,12 +90,12 @@ Sebelum Anda memulai instalasi, pastikan Anda memiliki:
 
 - Di halaman Firewall yang baru saja Anda buat, klik tab "Droplets".
 
-- Pilih droplet yang ingin Anda beri izin untuk mengakses port 3000.
+- Pilih droplet yang ingin Anda beri izin untuk mengakses port 1000.
 
 - Klik "Apply" untuk menghubungkan firewall dengan droplet tersebut.
 
 
-### Langkah 7: Instalasi Focalboard via Docker
+### Langkah 7: Instalasi Memos via Docker
 
 - Buka kembali terminal di komputer Anda.
 
