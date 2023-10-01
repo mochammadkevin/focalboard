@@ -1,4 +1,5 @@
 # Focalboard
+![image](https://github.com/mochammadkevin/focalboard/assets/88078382/7e325659-0caa-4c71-9a0e-8af28cad3d1d)
 
 ## Sekilas Tentang
 
