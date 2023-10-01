@@ -1,17 +1,21 @@
-# Focalboard
-![image](https://github.com/mochammadkevin/focalboard/assets/88078382/7e325659-0caa-4c71-9a0e-8af28cad3d1d)
+# Memos
+![image](https://github.com/mochammadkevin/memos/assets/88078382/cf3d9321-4d77-4636-9641-146b9c80ac62)
 
 ## Sekilas Tentang
 
-Focalboard adalah sebuah platform manajemen proyek yang bersifat sumber terbuka, mendukung berbagai bahasa, dan dapat di-host sendiri, yang menyajikan alternatif yang kuat untuk alat-alat seperti Trello, Notion, dan Asana dalam mengelola tugas-tugas dan proyek-proyek. Dengan Focalboard, Anda dapat dengan mudah mendefinisikan, mengorganisir, melacak, dan mengelola pekerjaan baik untuk individu maupun tim secara efisien.
+Website Memos adalah platform yang memungkinkan pengguna untuk membuat, menyimpan, dan berbagi catatan online. Dengan fitur-fitur yang intuitif dan user-friendly, Memos membantu pengguna mengatur ide, proyek, dan informasi penting dengan mudah.
 
-Focalboard hadir dalam tiga edisi yang berbeda, masing-masing dengan kegunaan yang unik:
+### Fitur Utama
 
-* **[Focalboard plugin](https://github.com/mattermost/focalboard/releases)**: Edisi ini mengintegrasikan Focalboard ke dalam instansi Mattermost yang sudah ada, menciptakan penggabungan yang kuat antara alat manajemen proyek dengan komunikasi tim dan kolaborasi dalam berbagai skala, sehingga memudahkan kerja sama tim.
+- **Pembuatan Catatan**: Buat catatan dengan mudah melalui antarmuka yang sederhana dan ramah pengguna.
 
-* **[Personal Desktop](https://www.focalboard.com/docs/personal-edition/desktop/)**: Focalboard juga menyediakan aplikasi desktop mandiri yang dapat digunakan oleh individu. Aplikasi ini tersedia untuk platform macOS, Windows, dan Linux, dan memungkinkan pengguna untuk mengatur daftar tugas pribadi dan mengelola proyek-proyek pribadi mereka dengan mudah dan efisien.
+- **Penyimpanan Aman**: Data Anda aman dengan kami. Kami mengambil privasi pengguna sangat serius.
 
-* **[Personal Server](https://www.focalboard.com/download/personal-edition/ubuntu/)**: Bagi mereka yang membutuhkan server mandiri untuk pengembangan dan penggunaan pribadi, Focalboard juga menawarkan edisi Personal Server. Dengan ini, Anda dapat mengelola proyek-proyek Anda dan berkolaborasi dengan tim Anda sendiri, memberikan fleksibilitas yang lebih besar dalam mengatur pekerjaan dan tugas-tugas yang perlu diselesaikan.
+- **Berbagi Catatan**: Bagikan catatan Anda dengan orang lain dengan cepat melalui tautan unik.
+
+- **Pencarian Cepat**: Temukan catatan yang Anda butuhkan dengan cepat menggunakan fitur pencarian.
+
+- **Dukungan Multi-Platform**: Akses catatan Anda di semua perangkat dengan dukungan multi-platform.
 
 
 ## Instalasi
