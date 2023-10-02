@@ -200,6 +200,8 @@ Pada halaman archive ini user dapat melihat note yang telah di archivenya pada h
 Pada halaman ini user dapat melakukan kostumisasi terhadap akunnya. Kostumisasi terbagi menjadi 2 yaitu My Account dan Preference. pada My account user dapat melakukan kostumisasi terhadap Username, email, dan nickname dengan menekan button edit. user juga dapat merubah password yang dimilika dengan menekan tombol change password. pada bagian preference user dapat melakukan kostumisisasi terhadap tema, bahasa, default jenis publikasi notenya, daily review time offset, dan user dapat menyalakan preferensi double klik untuk melakukan edit. bagian preferensi ini apa bila user memiliki telegram bot yang biasa digunakan untuk menyimpan note, user dapat memasukan id botnya agar note dapat dikirimkan menuju bot penyimpanan note yang dimiliki oleh user. Apabila user merupakan admin, pada halaman ini user dapat mengatur siapa saja yang merupakan member, mengubah password user lain, dan meng-archive user lain
 ![image](https://github.com/mochammadkevin/memos/assets/118964889/c0a3a681-2304-44f6-9694-c44a0f2b4e69)
 ![image](https://github.com/mochammadkevin/memos/assets/118964889/afd924d4-9d9b-4061-8cbf-031adf90e332)
+![image](https://github.com/mochammadkevin/memos/assets/118964889/7a0018d6-5a85-4f69-b1bb-ef225d8160c0)
+
 
 ### Tutorial
 ![image](https://github.com/mochammadkevin/memos/assets/118964889/8a7759a0-662c-4d36-87bb-a9e2dbaa33cb)
