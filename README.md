@@ -180,16 +180,29 @@ Dalam home user dapat membuat memo atau note yang memiliki 3 jenis publikasi yai
 - Visible to member : note hanya dapat dilihat oleh member dari sebuah kelompok
 - Public to everyone : note dapat diakses oleh semua user dari memos
 Dengan menekan button vertical ellipses yang terdapat pada note user dapat melakukan pin, archive, edit, mark, dan delete terhadap note yang telah dipublishnya.
+![image](https://github.com/mochammadkevin/memos/assets/118964889/86af3d12-e304-4627-91c7-1010c07adb2c)
+
 ### Daily Review
 Dalam daily review user dapat melihat semua note yang telah dipublish oleh user pada tanggal tertentu, selain itu user juga dapa mengunduh note yang telah dipublishnya melalui halaman ini.
+![image](https://github.com/mochammadkevin/memos/assets/118964889/c0834edf-2265-4a84-ab10-f4a1c30d45dc)
+
 ### Resources
+![image](https://github.com/mochammadkevin/memos/assets/118964889/768f717c-c34e-4823-9dd4-47ed74a112cf)
 
 ### Explore
 Pada halaman explore user dapat melihat note yang telah dipublish oleh user lain baik itu notes yang bersifat visible to memeber atau public to everyone
+![image](https://github.com/mochammadkevin/memos/assets/118964889/769abecf-1eb7-4c74-9474-3333130c5239)
+
 ### Archive
 Pada halaman archive ini user dapat melihat note yang telah di archivenya pada halaman home. user kemudian dapat memilih untuk me-restore atau delete note yang telah di archivenya.
+![image](https://github.com/mochammadkevin/memos/assets/118964889/3f731334-784d-4343-9922-b3e715adf97b)
+
 ### Setting
 Pada halaman ini user dapa melakukan kostumisasi terhadap akunnya. Kostumisasi terbagi menjadi 2 yaitu My Account dan Preference. pada My account user dapat melakukan kostumisasi terhadap Username, email, dan nickname dengan menekan button edit. user juga dapat merubah password yang dimilika dengan menekan tombol change password. pada bagian preference user dapat melakukan kostumisisasi terhadap tema, bahasa, default jenis publikasi notenya, daily review time offset, dan user dapat menyalakan preferensi double klik untuk melakukan edit. bagian preferensi ini apa bila user memiliki telegram bot yang biasa digunakan untuk menyimpan note, user dapat memasukan id botnya agar note dapat dikirimkan menuju bot penyimpanan note yang dimiliki oleh user.
+![image](https://github.com/mochammadkevin/memos/assets/118964889/c0a3a681-2304-44f6-9694-c44a0f2b4e69)
+![image](https://github.com/mochammadkevin/memos/assets/118964889/afd924d4-9d9b-4061-8cbf-031adf90e332)
+
+
 - Isi dengan data real/dummy (jangan kosongan) dan sertakan beberapa screenshot
 
 
