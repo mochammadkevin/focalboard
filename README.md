@@ -172,8 +172,6 @@ Terakhir, jalankan kembali Memos dengan mengikuti langkah-langkah yang ada pada 
 
 ## Cara Pemakaian
 
-- Tampilan aplikasi web
-- Fungsi-fungsi utama
 ### Home
 Dalam home user dapat membuat memo atau note yang memiliki 3 jenis publikasi yaitu:
 - Private : note hanya dapat dilihat oleh user yang menulisnya
@@ -202,9 +200,13 @@ Pada halaman ini user dapa melakukan kostumisasi terhadap akunnya. Kostumisasi t
 ![image](https://github.com/mochammadkevin/memos/assets/118964889/c0a3a681-2304-44f6-9694-c44a0f2b4e69)
 ![image](https://github.com/mochammadkevin/memos/assets/118964889/afd924d4-9d9b-4061-8cbf-031adf90e332)
 
-
-- Isi dengan data real/dummy (jangan kosongan) dan sertakan beberapa screenshot
-
+### Tutorial
+![image](https://github.com/mochammadkevin/memos/assets/118964889/8a7759a0-662c-4d36-87bb-a9e2dbaa33cb)
+![image](https://github.com/mochammadkevin/memos/assets/118964889/80c2c187-6cf5-40fe-8125-34c133cf2414)
+![image](https://github.com/mochammadkevin/memos/assets/118964889/f972ad0a-15d7-4c1c-bf85-2ce71b640643)
+![image](https://github.com/mochammadkevin/memos/assets/118964889/26a31d7a-be90-44f4-97fe-625636b7eeed)
+![image](https://github.com/mochammadkevin/memos/assets/118964889/3deabc93-90ca-44c1-8325-966fedebecb5)
+![image](https://github.com/mochammadkevin/memos/assets/118964889/1a8bc935-a205-44c6-aa47-6d2dc2a0647c)
 
 ## Pembahasan
 
