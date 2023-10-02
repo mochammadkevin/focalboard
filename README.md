@@ -173,11 +173,11 @@ Terakhir, jalankan kembali Memos dengan mengikuti langkah-langkah yang ada pada 
 ## Cara Pemakaian
 
 ### Home
-Dalam home user dapat membuat memo atau note yang memiliki 3 jenis publikasi yaitu:
-- Private : note hanya dapat dilihat oleh user yang menulisnya
-- Visible to member : note hanya dapat dilihat oleh member dari sebuah kelompok
-- Public to everyone : note dapat diakses oleh semua user dari memos
-Dengan menekan button vertical ellipses yang terdapat pada note user dapat melakukan pin, archive, edit, mark, dan delete terhadap note yang telah dipublishnya.
+Pada halaman home, pengguna dapat membuat memo atau catatan dengan tiga jenis publikasi yang berbeda:
+- Private : Note hanya dapat dilihat oleh pengguna yang membuatnya.
+- Visible to member : Note hanya dapat dilihat oleh anggota dari sebuah kelompok.
+- Public to everyone : Note dapat diakses oleh semua pengguna dari memo.
+Dengan menekan tombol titik-titik vertikal yang terdapat pada catatan, pengguna dapat melakukan berbagai tindakan seperti menyematkan (pin), mengarsipkan (archive), mengedit, menandai, dan menghapus catatan yang telah dipublikasikan.
 ![image](https://github.com/mochammadkevin/memos/assets/118964889/86af3d12-e304-4627-91c7-1010c07adb2c)
 
 ### Daily Review
