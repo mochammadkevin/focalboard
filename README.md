@@ -185,6 +185,7 @@ Dalam daily review user dapat melihat semua note yang telah dipublish oleh user 
 ![image](https://github.com/mochammadkevin/memos/assets/118964889/c0834edf-2265-4a84-ab10-f4a1c30d45dc)
 
 ### Resources
+Pada halaman resources, user dapat melihat semua file dalam note yang diunggah pada waktu tertentu. User juga dapat mengunduh file yang telah diunggahnya.
 ![image](https://github.com/mochammadkevin/memos/assets/118964889/768f717c-c34e-4823-9dd4-47ed74a112cf)
 
 ### Explore
