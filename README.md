@@ -213,10 +213,13 @@ Pada halaman ini user dapat melakukan kostumisasi terhadap akunnya. Kostumisasi 
 
 - Pendapat anda tentang aplikasi web ini
     - kelebihan
-      1. Dapat melihat history note yang telah diunggah pada rentang waktu tertentu
+      1. Dapat melihat history note yang telah diunggah pada rentang waktu tertentu.
          ![image](https://github.com/mochammadkevin/memos/assets/118964889/f972ad0a-15d7-4c1c-bf85-2ce71b640643)
       
     - kekurangan
+      1. Antar user tidak bisa saling mengirim pesan (tidak ada komunikasi antar user), hanya bisa melihat note yang diunggah user lain.
+         ![image](https://github.com/mochammadkevin/memos/assets/118964889/26a31d7a-be90-44f4-97fe-625636b7eeed)
+         
 - Bandingkan dengan aplikasi web lain yang sejenis
 
 
