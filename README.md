@@ -216,6 +216,15 @@ Pada halaman ini user dapat melakukan kostumisasi terhadap akunnya. Kostumisasi 
 ![image](https://github.com/mochammadkevin/memos/assets/118964889/26a31d7a-be90-44f4-97fe-625636b7eeed)
 ![image](https://github.com/mochammadkevin/memos/assets/118964889/3deabc93-90ca-44c1-8325-966fedebecb5)
 ![image](https://github.com/mochammadkevin/memos/assets/118964889/1a8bc935-a205-44c6-aa47-6d2dc2a0647c)
+![image](https://github.com/mochammadkevin/memos/assets/118964889/954d615a-a2f9-4aaf-bafd-37497afcfaa5)
+![image](https://github.com/mochammadkevin/memos/assets/118964889/d7e9d38c-33f9-4d19-8a8b-9bc422a009c1)
+![image](https://github.com/mochammadkevin/memos/assets/118964889/fd6c3d19-5ff7-4db1-aabb-fc368dd0be3a)
+
+
+
+
+
+
 
 ## Pembahasan
 
