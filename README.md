@@ -173,7 +173,7 @@ Terakhir, jalankan kembali Memos dengan mengikuti langkah-langkah yang ada pada 
 ## Cara Pemakaian
 ### Login Page
 ![WhatsApp Image 2023-10-03 at 10 02 58](https://github.com/mochammadkevin/memos/assets/132868704/3c7a12ea-ebff-4f2c-a948-583f21484c4a)
-- Sign up : Membuat akun baru bagi pengguna yang belum memiliki akun. Tidak dapat membuat akun dengan username yang sama. Akun dengan username yang sama akan menampilkan pesan "Failed to create user"
+- Sign up : Membuat akun baru bagi pengguna yang belum memiliki akun. Tidak dapat membuat akun dengan username yang sama. Akun dengan username yang sama akan menampilkan pesan "Failed to create user".
 - Sign in : Pengguna yang sudah memiliki akun masuk ke dalam akun.
 - Language selection : Opsi yang memungkinkan pengguna untuk memilih bahasa yang sesuai dengan kebutuhan.
 - Follow system : Opsi yang memungkinkan pengguna untuk mengubah tampilan antarmuka pengguna dari tema yang terang (light mode) ke tema yang gelap (dark mode) atau sebaliknya. 
@@ -183,37 +183,39 @@ Pada halaman home, pengguna dapat membuat memo atau catatan dengan tiga jenis pu
 - Private : Note hanya dapat dilihat oleh pengguna yang membuatnya.
 - Visible to member : Note hanya dapat dilihat oleh anggota dari sebuah kelompok.
 - Public to everyone : Note dapat diakses oleh semua pengguna dari memo.
-Dengan menekan tombol titik-titik vertikal yang terdapat pada catatan, pengguna dapat melakukan berbagai tindakan seperti menyematkan (pin), mengarsipkan (archive), mengedit, menandai, dan menghapus catatan yang telah dipublikasikan.
+Dengan menekan tombol titik-titik vertikal yang terdapat pada catatan, pengguna dapat melakukan berbagai tindakan seperti menyematkan (Pin), mengarsipkan (Archive), mengedit (Edit), menandai (Mark), dan menghapus catatan yang telah dipublikasikan (Delete).
 
 ![image](https://github.com/mochammadkevin/memos/assets/118964889/86af3d12-e304-4627-91c7-1010c07adb2c)
 
 ### Daily Review
-Dalam daily review user dapat melihat semua note yang telah dipublish oleh user pada tanggal tertentu, selain itu user juga dapa mengunduh note yang telah dipublishnya melalui halaman ini.
+Dalam daily review, user dapat melihat semua note yang telah dipublish oleh user pada tanggal tertentu, selain itu user juga dapa mengunduh note yang telah dipublishnya melalui halaman ini.
 
-![image](https://github.com/mochammadkevin/memos/assets/118964889/c0834edf-2265-4a84-ab10-f4a1c30d45dc)
+![WhatsApp Image 2023-10-03 at 09 31 47](https://github.com/mochammadkevin/memos/assets/132868704/26e982d3-b623-4413-8030-fff7bd2c4836)
 
 ### Resources
 Pada halaman resources, user dapat melihat semua file dalam note yang diunggah pada waktu tertentu. User juga dapat mengunduh file yang telah diunggahnya.
 
-![image](https://github.com/mochammadkevin/memos/assets/118964889/768f717c-c34e-4823-9dd4-47ed74a112cf)
+![WhatsApp Image 2023-10-03 at 09 32 47](https://github.com/mochammadkevin/memos/assets/132868704/f7114d53-baa4-4f23-bdfd-a8319744ac6f)
 
 ### Explore
-Pada halaman explore user dapat melihat note yang telah dipublish oleh user lain baik itu notes yang bersifat visible to memeber atau public to everyone
+Pada halaman explore user dapat melihat note yang telah dipublish oleh user lain baik itu notes yang bersifat visible to member atau public to everyone
 
-![image](https://github.com/mochammadkevin/memos/assets/118964889/769abecf-1eb7-4c74-9474-3333130c5239)
+![WhatsApp Image 2023-10-03 at 09 43 23](https://github.com/mochammadkevin/memos/assets/132868704/840a1773-3768-4b05-9040-3605e9e8a5e6)
 
 ### Archive
 Pada halaman archive ini user dapat melihat note yang telah di archivenya pada halaman home. user kemudian dapat memilih untuk me-restore atau delete note yang telah di archivenya.
 
-![image](https://github.com/mochammadkevin/memos/assets/118964889/3f731334-784d-4343-9922-b3e715adf97b)
+![WhatsApp Image 2023-10-03 at 09 44 27](https://github.com/mochammadkevin/memos/assets/132868704/2e87d5f8-a5c2-41af-bb8c-54b41d5e1196)
 
 ### Setting
-Pada halaman ini user dapat melakukan kostumisasi terhadap akunnya. Kostumisasi terbagi menjadi 2 yaitu My Account dan Preference. pada My account user dapat melakukan kostumisasi terhadap Username, email, dan nickname dengan menekan button edit. user juga dapat merubah password yang dimilika dengan menekan tombol change password. pada bagian preference user dapat melakukan kostumisisasi terhadap tema, bahasa, default jenis publikasi notenya, daily review time offset, dan user dapat menyalakan preferensi double klik untuk melakukan edit. bagian preferensi ini apa bila user memiliki telegram bot yang biasa digunakan untuk menyimpan note, user dapat memasukan id botnya agar note dapat dikirimkan menuju bot penyimpanan note yang dimiliki oleh user. Apabila user merupakan admin, pada halaman ini user dapat mengatur siapa saja yang merupakan member, mengubah password user lain, dan meng-archive user lain
+Pada halaman ini user dapat melakukan kustomisasi terhadap akunnya. Kustomisasi terbagi menjadi 2, yaitu My Account dan Preference. Pada My Account, user dapat melakukan kustomisasi terhadap Username (Digunakan untuk sign in), Nickname (Nama yang ditampilkan pada website), dan E-mail dengan menekan button edit. User juga dapat merubah password yang dimiliki dengan menekan tombol Change password. Pada bagian Preferences, user dapat melakukan kustomisasi terhadap tema, bahasa, default jenis publikasi notenya, daily review time offset, dan user dapat menyalakan preferensi double klik untuk melakukan edit. Bagian preferensi ini apabila user memiliki telegram bot yang biasa digunakan untuk menyimpan note. User dapat memasukkan id botnya agar note dapat dikirimkan menuju bot penyimpanan note yang dimiliki oleh user. Pada halaman user yang merupakan Admin, Admin dapat mengatur siapa saja yang merupakan member, mengubah password user lain, dan meng-archive user lain.
 
 ![image](https://github.com/mochammadkevin/memos/assets/118964889/c0a3a681-2304-44f6-9694-c44a0f2b4e69)
-![image](https://github.com/mochammadkevin/memos/assets/118964889/afd924d4-9d9b-4061-8cbf-031adf90e332)
+![WhatsApp Image 2023-10-03 at 09 50 40](https://github.com/mochammadkevin/memos/assets/132868704/95dfa9aa-97ca-48b0-814d-adbdd9f1e1fa)
+![WhatsApp Image 2023-10-03 at 09 50 52](https://github.com/mochammadkevin/memos/assets/132868704/f5491602-1eda-4ffe-8f5e-fe50f3a76212)
+![image](https://github.com/![Uploading WhatsApp Image 2023-10-03 at 09.50.52.jpeg…]()
+mochammadkevin/memos/assets/118964889/afd924d4-9d9b-4061-8cbf-031adf90e332)
 ![image](https://github.com/mochammadkevin/memos/assets/118964889/7a0018d6-5a85-4f69-b1bb-ef225d8160c0)
-
 
 ### Tutorial
 ![image](https://github.com/mochammadkevin/memos/assets/118964889/8a7759a0-662c-4d36-87bb-a9e2dbaa33cb)
