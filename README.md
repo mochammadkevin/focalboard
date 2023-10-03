@@ -213,8 +213,7 @@ Pada halaman ini user dapat melakukan kustomisasi terhadap akunnya. Kustomisasi 
 ![image](https://github.com/mochammadkevin/memos/assets/118964889/c0a3a681-2304-44f6-9694-c44a0f2b4e69)
 ![WhatsApp Image 2023-10-03 at 09 50 40](https://github.com/mochammadkevin/memos/assets/132868704/95dfa9aa-97ca-48b0-814d-adbdd9f1e1fa)
 ![WhatsApp Image 2023-10-03 at 09 50 52](https://github.com/mochammadkevin/memos/assets/132868704/f5491602-1eda-4ffe-8f5e-fe50f3a76212)
-![image](https://github.com/![Uploading WhatsApp Image 2023-10-03 at 09.50.52.jpeg…]()
-mochammadkevin/memos/assets/118964889/afd924d4-9d9b-4061-8cbf-031adf90e332)
+![WhatsApp Image 2023-10-03 at 09 45 00](https://github.com/mochammadkevin/memos/assets/132868704/8af97053-ace3-43d4-8582-8b7de1bf7d6e)
 ![image](https://github.com/mochammadkevin/memos/assets/118964889/7a0018d6-5a85-4f69-b1bb-ef225d8160c0)
 
 ### Tutorial
