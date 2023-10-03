@@ -226,11 +226,13 @@ Pada bagian Preference, pengguna dapat menyesuaikan tema, bahasa, jenis publikas
 <p align="center">
 Tampilan My Account pada setting
 </p>
+
 ![image](https://github.com/mochammadkevin/memos/assets/118964889/b25ba0a4-ca1d-46de-91e5-98b81b53ea1d)
 
 <p align="center">
 Tampilan Preference pada setting
 </p>
+
 ![image](https://github.com/mochammadkevin/memos/assets/118964889/5d7662b8-1b69-4556-b2a3-37a36966b39c)
 
 <p align="center">
