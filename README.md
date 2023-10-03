@@ -3,6 +3,9 @@
     <img width="640" src="https://github.com/mochammadkevin/memos/assets/132868704/d9181a72-e95a-4cff-aec5-e91603795277">
 </p>
 
+[Sekilas Tentang](#sekilas-tentang) | [Instalasi](#instalasi) | [Maintenance](#maintenance) | [Cara Pemakaian](#cara-pemakaian) | [Pembahasan](#pembahasan) | [Cara Pemakaian](#cara-pemakaian) | [Referensi](#referensi)
+:---:|:---:|:---:|:---:|:---:|:---:|:---:
+
 ## Sekilas Tentang
 
 Website Memos adalah platform yang memungkinkan pengguna untuk membuat, menyimpan, dan berbagi catatan online. Dengan fitur-fitur yang intuitif dan user-friendly, Memos membantu pengguna mengatur ide, proyek, dan informasi penting dengan mudah.
