@@ -171,6 +171,12 @@ docker pull ghcr.io/usememos/memos:latest
 Terakhir, jalankan kembali Memos dengan mengikuti langkah-langkah yang ada pada langkah 7
 
 ## Cara Pemakaian
+### Login Page
+![WhatsApp Image 2023-10-03 at 10 02 58](https://github.com/mochammadkevin/memos/assets/132868704/3c7a12ea-ebff-4f2c-a948-583f21484c4a)
+- Sign up : Membuat akun baru bagi pengguna yang belum memiliki akun. Tidak dapat membuat akun dengan username yang sama. Akun dengan username yang sama akan menampilkan pesan "Failed to create user"
+- Sign in : Pengguna yang sudah memiliki akun masuk ke dalam akun.
+- Language selection : Opsi yang memungkinkan pengguna untuk memilih bahasa yang sesuai dengan kebutuhan.
+- Follow system : Opsi yang memungkinkan pengguna untuk mengubah tampilan antarmuka pengguna dari tema yang terang (light mode) ke tema yang gelap (dark mode) atau sebaliknya. 
 
 ### Home
 Pada halaman home, pengguna dapat membuat memo atau catatan dengan tiga jenis publikasi yang berbeda:
