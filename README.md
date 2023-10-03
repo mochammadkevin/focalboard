@@ -1,5 +1,5 @@
 # Memos
-![image](https://github.com/mochammadkevin/memos/assets/88078382/cf3d9321-4d77-4636-9641-146b9c80ac62)
+![Memos](https://github.com/mochammadkevin/memos/assets/132868704/d9181a72-e95a-4cff-aec5-e91603795277)
 
 ## Sekilas Tentang
 
