@@ -234,15 +234,21 @@ Pada halaman ini user dapat melakukan kustomisasi terhadap akunnya. Kustomisasi 
 
 
 ## Pembahasan
-
 - Pendapat anda tentang aplikasi web ini
-    - kelebihan
-      1. Dapat melihat history note yang telah diunggah pada rentang waktu tertentu.
-         ![image](https://github.com/mochammadkevin/memos/assets/118964889/f972ad0a-15d7-4c1c-bf85-2ce71b640643)
+  
+- Kelebihan
+  1. Privasi, seluruh data disimpan dalam file database SQLite
+  2. Teks biasa dengan markdown, Konten disimpan dalam bentuk teks biasa (plain text), bukan HTML. Banyak sintaks       markdown yang berguna didukung.
+  3. Ringan, tapi kuat, Menggunakan arsitektur Go + React.js + SQLite. Keseluruhan paket sangat ringan.
+  4. Dapat disesuaikan, dapat menyesuaikan nama server, ikon, deskripsi, gaya sistem khusus dan skrip eksekusi, dll.
+  5. Sepenuhnya Open Source
+  6. Gratis selamanya, Semua fitur gratis selamanya dan tidak akan pernah dikenakan biaya dalam bentuk atau konten apa pun.
       
-    - kekurangan
-      1. Antar user tidak bisa saling mengirim pesan (tidak ada komunikasi antar user), hanya bisa melihat note yang diunggah user lain.
-         ![image](https://github.com/mochammadkevin/memos/assets/118964889/26a31d7a-be90-44f4-97fe-625636b7eeed)
+- Kekurangan
+  1. Antar user tidak bisa saling mengirim pesan (tidak ada komunikasi antar user), hanya bisa melihat note yang diunggah user lain.
+     ![image](https://github.com/mochammadkevin/memos/assets/118964889/26a31d7a-be90-44f4-97fe-625636b7eeed)
+  2. Pengguna lain hanya dapat menyalin note dan membuka file yang diunggah oleh user. Pengguna lain tidak dapat melakukan tindakan lainnya, seperti membalas note yang diunggah.
+  3. File Audio dan Video yang diunggah oleh user melalui External Link tidak dapat diakses pengguna lain. File Audio dan Video hanya dapat diakses user itu sendiri melalui Resources.
          
 - Bandingkan dengan aplikasi web lain yang sejenis
 
