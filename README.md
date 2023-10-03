@@ -180,6 +180,7 @@ Terakhir, jalankan kembali Memos dengan mengikuti langkah-langkah yang ada pada 
 
 ## Cara Pemakaian
 [`^ kembali ke atas ^`](#)
+
 ### Login Page
 ![WhatsApp Image 2023-10-03 at 10 02 58](https://github.com/mochammadkevin/memos/assets/132868704/3c7a12ea-ebff-4f2c-a948-583f21484c4a)
 - Sign up : Membuat akun baru bagi pengguna yang belum memiliki akun. Tidak dapat membuat akun dengan username yang sama. Akun dengan username yang sama akan menampilkan pesan "Failed to create user".
@@ -249,6 +250,7 @@ Pada bagian Preference, pengguna dapat menyesuaikan tema, bahasa, jenis publikas
 
 ## Pembahasan
 [`^ kembali ke atas ^`](#)
+
 Memos ditulis dalam bahasa pemrograman Golang dan TypeScript yang berfungsi dengan file db SQLite. Sebagai salah satu Note-taking & Editors, aplikasi website memiliki beberapa kelebihan, diantaranya:
 
 - Kelebihan
