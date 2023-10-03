@@ -248,5 +248,7 @@ Pada halaman ini user dapat melakukan kustomisasi terhadap akunnya. Kustomisasi 
 
 
 ## Referensi
-
-Cantumkan tiap sumber informasi yang anda pakai.
+1. [About memos](https://usememos.com/) - Memos
+2. [How to Create a Droplet](https://docs.digitalocean.com/products/droplets/how-to/create/) - DigitalOcean
+3. [Install with Docker - Memos](https://usememos.com/docs/install/docker) - Memos
+4. [Memos Review](https://www.youtube.com/watch?v=w7aH23Jyg58&t=137s) - TechHut
