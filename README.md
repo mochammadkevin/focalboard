@@ -223,10 +223,17 @@ Pada halaman ini, pengguna dapat melakukan penyesuaian terhadap akunnya. Penyesu
 Pada bagian Preference, pengguna dapat menyesuaikan tema, bahasa, jenis publikasi default untuk catatan mereka, offset waktu tinjauan harian, dan pengguna dapat mengaktifkan preferensi untuk mengedit dengan menggandakan klik. Bagian Preference ini juga memungkinkan pengguna yang memiliki bot Telegram untuk menyimpan catatan. Pengguna dapat memasukkan ID bot mereka agar catatan dapat dikirimkan ke bot penyimpanan catatan yang mereka miliki. Pada halaman pengguna yang merupakan Administrator, Administrator dapat mengatur anggota, mengubah kata sandi pengguna lain, dan mengarsipkan pengguna lain.
 
 ![image](https://github.com/mochammadkevin/memos/assets/118964889/c0a3a681-2304-44f6-9694-c44a0f2b4e69)
-![WhatsApp Image 2023-10-03 at 09 50 40](https://github.com/mochammadkevin/memos/assets/132868704/95dfa9aa-97ca-48b0-814d-adbdd9f1e1fa)
-![WhatsApp Image 2023-10-03 at 09 50 52](https://github.com/mochammadkevin/memos/assets/132868704/f5491602-1eda-4ffe-8f5e-fe50f3a76212)
+<p align="center">
+Tampilan My Account pada setting
+</p>
 ![WhatsApp Image 2023-10-03 at 09 45 00](https://github.com/mochammadkevin/memos/assets/132868704/8af97053-ace3-43d4-8582-8b7de1bf7d6e)
+<p align="center">
+Tampilan Preference pada setting
+</p>
 ![image](https://github.com/mochammadkevin/memos/assets/118964889/7a0018d6-5a85-4f69-b1bb-ef225d8160c0)
+<p align="center">
+Tampilan Setting pada Admin
+</p>
 
 ### Tutorial
 ![image](https://github.com/mochammadkevin/memos/assets/118964889/8a7759a0-662c-4d36-87bb-a9e2dbaa33cb)
