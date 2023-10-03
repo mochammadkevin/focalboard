@@ -255,7 +255,7 @@ Perbandingan Memos dengan aplikasi website Note-taking & Editors sejenis, sepert
   1. Livebook dapat menulis kode, analisis hasil, dan dokumentasi bersama-sama, secara realtime, sedangkan Memos tidak.
   2. Livebook dapat melacak status buku catatan, memberikan anotasi pada bagian mana yang lama, sedangkan Memos tidak.
   3. Editor kode Livebook mendukung autocompletion, dokumentasi sebaris, pemformatan kode, dan banyak lagi. Ditambah shortcut keyboard di seluruh notebook, sedangkan Memos tidak.
-  4. Livebook terintegrasi dengan Elixir, Hugginf Face, berbagai sumber data, perpustakaan visualisasi data, dan banyak lagi.
+  4. Livebook terintegrasi dengan Elixir, Hugging Face, berbagai sumber data, perpustakaan visualisasi data, dan banyak lagi.
 
 ## Referensi
 1. [About memos](https://usememos.com/) - Memos
