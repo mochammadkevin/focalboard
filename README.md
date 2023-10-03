@@ -240,16 +240,17 @@ Tampilan Setting pada Admin
 </p>
 
 ### Tutorial
+- Ketik apa yang ingin disampaikan pada semua pengguna memo lalu tekan save
 ![image](https://github.com/mochammadkevin/memos/assets/118964889/8a7759a0-662c-4d36-87bb-a9e2dbaa33cb)
 
-![image](https://github.com/mochammadkevin/memos/assets/118964889/80c2c187-6cf5-40fe-8125-34c133cf2414)
-
-![image](https://github.com/mochammadkevin/memos/assets/118964889/f972ad0a-15d7-4c1c-bf85-2ce71b640643)
+- Setelah tekan save memo dapat dilihat oleh semua pengguna melalui explore
 
 ![image](https://github.com/mochammadkevin/memos/assets/118964889/26a31d7a-be90-44f4-97fe-625636b7eeed)
 
+- Untuk melakukan archive, klik vertical ellipsis lalu pilih archive
 ![image](https://github.com/mochammadkevin/memos/assets/118964889/3deabc93-90ca-44c1-8325-966fedebecb5)
 
+- Memo yang telah di archive akan dilihat melalui archive
 ![image](https://github.com/mochammadkevin/memos/assets/118964889/1a8bc935-a205-44c6-aa47-6d2dc2a0647c)
 
 ![image](https://github.com/mochammadkevin/memos/assets/118964889/954d615a-a2f9-4aaf-bafd-37497afcfaa5)
