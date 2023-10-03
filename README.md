@@ -234,8 +234,8 @@ Pada halaman ini user dapat melakukan kustomisasi terhadap akunnya. Kustomisasi 
 
 
 ## Pembahasan
-- Pendapat anda tentang aplikasi web ini
-  
+Memos ditulis dalam bahasa pemrograman Golang dan TypeScript yang berfungsi dengan file db SQLite. Sebagai salah satu Note-taking & Editors, aplikasi website memiliki beberapa kelebihan, diantaranya:
+
 - Kelebihan
   1. Privasi, seluruh data disimpan dalam file database SQLite
   2. Teks biasa dengan markdown, Konten disimpan dalam bentuk teks biasa (plain text), bukan HTML. Banyak sintaks       markdown yang berguna didukung.
@@ -243,15 +243,19 @@ Pada halaman ini user dapat melakukan kustomisasi terhadap akunnya. Kustomisasi 
   4. Dapat disesuaikan, dapat menyesuaikan nama server, ikon, deskripsi, gaya sistem khusus dan skrip eksekusi, dll.
   5. Sepenuhnya Open Source
   6. Gratis selamanya, Semua fitur gratis selamanya dan tidak akan pernah dikenakan biaya dalam bentuk atau konten apa pun.
-      
+
+Sebuah aplikasi website pastinya memiliki kekurangan, diantaranya:
 - Kekurangan
   1. Antar user tidak bisa saling mengirim pesan (tidak ada komunikasi antar user), hanya bisa melihat note yang diunggah user lain.
      ![image](https://github.com/mochammadkevin/memos/assets/118964889/26a31d7a-be90-44f4-97fe-625636b7eeed)
   2. Pengguna lain hanya dapat menyalin note dan membuka file yang diunggah oleh user. Pengguna lain tidak dapat melakukan tindakan lainnya, seperti membalas note yang diunggah.
   3. File Audio dan Video yang diunggah oleh user melalui External Link tidak dapat diakses pengguna lain. File Audio dan Video hanya dapat diakses user itu sendiri melalui Resources.
          
-- Bandingkan dengan aplikasi web lain yang sejenis
-
+Perbandingan Memos dengan aplikasi website Note-taking & Editors sejenis, seperti Livebook, diantaranya:
+  1. Livebook dapat menulis kode, analisis hasil, dan dokumentasi bersama-sama, secara realtime, sedangkan Memos tidak.
+  2. Livebook dapat melacak status buku catatan, memberikan anotasi pada bagian mana yang lama, sedangkan Memos tidak.
+  3. Editor kode Livebook mendukung autocompletion, dokumentasi sebaris, pemformatan kode, dan banyak lagi. Ditambah shortcut keyboard di seluruh notebook, sedangkan Memos tidak.
+  4. Livebook terintegrasi dengan Elixir, Hugginf Face, berbagai sumber data, perpustakaan visualisasi data, dan banyak lagi.
 
 ## Referensi
 1. [About memos](https://usememos.com/) - Memos
