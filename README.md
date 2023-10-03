@@ -188,27 +188,29 @@ Dengan menekan tombol titik-titik vertikal yang terdapat pada catatan, pengguna 
 ![image](https://github.com/mochammadkevin/memos/assets/118964889/86af3d12-e304-4627-91c7-1010c07adb2c)
 
 ### Daily Review
-Dalam daily review, user dapat melihat semua note yang telah dipublish oleh user pada tanggal tertentu, selain itu user juga dapa mengunduh note yang telah dipublishnya melalui halaman ini.
+Pada Daily Review, pengguna dapat melihat semua catatan yang telah mereka publikasikan pada tanggal tertentu. Selain itu, pengguna juga dapat mengunduh catatan yang telah mereka publikasikan melalui halaman ini.
 
 ![WhatsApp Image 2023-10-03 at 09 31 47](https://github.com/mochammadkevin/memos/assets/132868704/26e982d3-b623-4413-8030-fff7bd2c4836)
 
 ### Resources
-Pada halaman resources, user dapat melihat semua file dalam note yang diunggah pada waktu tertentu. User juga dapat mengunduh file yang telah diunggahnya.
+Pada halaman Resources, pengguna dapat melihat semua file yang telah diunggah dalam catatan pada waktu tertentu. Pengguna juga dapat mengunduh file-file yang telah diunggahnya.
 
 ![WhatsApp Image 2023-10-03 at 09 32 47](https://github.com/mochammadkevin/memos/assets/132868704/f7114d53-baa4-4f23-bdfd-a8319744ac6f)
 
 ### Explore
-Pada halaman explore user dapat melihat note yang telah dipublish oleh user lain baik itu notes yang bersifat visible to member atau public to everyone
+Di halaman Explore, pengguna dapat menjelajahi catatan yang telah dipublikasikan oleh pengguna lain, baik yang bersifat terlihat oleh anggota atau terbuka untuk semua orang.
 
 ![WhatsApp Image 2023-10-03 at 09 43 23](https://github.com/mochammadkevin/memos/assets/132868704/840a1773-3768-4b05-9040-3605e9e8a5e6)
 
 ### Archive
-Pada halaman archive ini user dapat melihat note yang telah di archivenya pada halaman home. user kemudian dapat memilih untuk me-restore atau delete note yang telah di archivenya.
+Pada halaman Archive, pengguna dapat melihat catatan yang telah diarsipkannya dari halaman utama. Pengguna kemudian dapat memilih untuk mengembalikan atau menghapus catatan yang telah diarsipkannya.
 
 ![WhatsApp Image 2023-10-03 at 09 44 27](https://github.com/mochammadkevin/memos/assets/132868704/2e87d5f8-a5c2-41af-bb8c-54b41d5e1196)
 
 ### Setting
-Pada halaman ini user dapat melakukan kustomisasi terhadap akunnya. Kustomisasi terbagi menjadi 2, yaitu My Account dan Preference. Pada My Account, user dapat melakukan kustomisasi terhadap Username (Digunakan untuk sign in), Nickname (Nama yang ditampilkan pada website), dan E-mail dengan menekan button edit. User juga dapat merubah password yang dimiliki dengan menekan tombol Change password. Pada bagian Preferences, user dapat melakukan kustomisasi terhadap tema, bahasa, default jenis publikasi notenya, daily review time offset, dan user dapat menyalakan preferensi double klik untuk melakukan edit. Bagian preferensi ini apabila user memiliki telegram bot yang biasa digunakan untuk menyimpan note. User dapat memasukkan id botnya agar note dapat dikirimkan menuju bot penyimpanan note yang dimiliki oleh user. Pada halaman user yang merupakan Admin, Admin dapat mengatur siapa saja yang merupakan member, mengubah password user lain, dan meng-archive user lain.
+Pada halaman ini, pengguna dapat melakukan penyesuaian terhadap akunnya. Penyesuaian ini terbagi menjadi dua bagian, yaitu My Account dan Preference. Pada My Account, pengguna dapat mengubah Nama Pengguna (digunakan untuk masuk), Nama Panggilan (nama yang ditampilkan di situs web), dan Alamat Email dengan menekan tombol edit. Pengguna juga dapat mengganti kata sandi yang dimilikinya dengan menekan tombol Ubah Kata Sandi. 
+
+Pada bagian Preference, pengguna dapat menyesuaikan tema, bahasa, jenis publikasi default untuk catatan mereka, offset waktu tinjauan harian, dan pengguna dapat mengaktifkan preferensi untuk mengedit dengan menggandakan klik. Bagian Preference ini juga memungkinkan pengguna yang memiliki bot Telegram untuk menyimpan catatan. Pengguna dapat memasukkan ID bot mereka agar catatan dapat dikirimkan ke bot penyimpanan catatan yang mereka miliki. Pada halaman pengguna yang merupakan Administrator, Administrator dapat mengatur anggota, mengubah kata sandi pengguna lain, dan mengarsipkan pengguna lain.
 
 ![image](https://github.com/mochammadkevin/memos/assets/118964889/c0a3a681-2304-44f6-9694-c44a0f2b4e69)
 ![WhatsApp Image 2023-10-03 at 09 50 40](https://github.com/mochammadkevin/memos/assets/132868704/95dfa9aa-97ca-48b0-814d-adbdd9f1e1fa)
@@ -218,19 +220,22 @@ Pada halaman ini user dapat melakukan kustomisasi terhadap akunnya. Kustomisasi 
 
 ### Tutorial
 ![image](https://github.com/mochammadkevin/memos/assets/118964889/8a7759a0-662c-4d36-87bb-a9e2dbaa33cb)
+
 ![image](https://github.com/mochammadkevin/memos/assets/118964889/80c2c187-6cf5-40fe-8125-34c133cf2414)
+
 ![image](https://github.com/mochammadkevin/memos/assets/118964889/f972ad0a-15d7-4c1c-bf85-2ce71b640643)
+
 ![image](https://github.com/mochammadkevin/memos/assets/118964889/26a31d7a-be90-44f4-97fe-625636b7eeed)
+
 ![image](https://github.com/mochammadkevin/memos/assets/118964889/3deabc93-90ca-44c1-8325-966fedebecb5)
+
 ![image](https://github.com/mochammadkevin/memos/assets/118964889/1a8bc935-a205-44c6-aa47-6d2dc2a0647c)
+
 ![image](https://github.com/mochammadkevin/memos/assets/118964889/954d615a-a2f9-4aaf-bafd-37497afcfaa5)
+
 ![image](https://github.com/mochammadkevin/memos/assets/118964889/d7e9d38c-33f9-4d19-8a8b-9bc422a009c1)
+
 ![image](https://github.com/mochammadkevin/memos/assets/118964889/fd6c3d19-5ff7-4db1-aabb-fc368dd0be3a)
-
-
-
-
-
 
 
 ## Pembahasan
@@ -248,8 +253,9 @@ Sebuah aplikasi website pastinya memiliki kekurangan, diantaranya:
 - Kekurangan
   1. Antar user tidak bisa saling mengirim pesan (tidak ada komunikasi antar user), hanya bisa melihat note yang diunggah user lain.
      ![image](https://github.com/mochammadkevin/memos/assets/118964889/26a31d7a-be90-44f4-97fe-625636b7eeed)
-  2. Pengguna lain hanya dapat menyalin note dan membuka file yang diunggah oleh user. Pengguna lain tidak dapat melakukan tindakan lainnya, seperti membalas note yang diunggah.
-  3. File Audio dan Video yang diunggah oleh user melalui External Link tidak dapat diakses pengguna lain. File Audio dan Video hanya dapat diakses user itu sendiri melalui Resources.
+     
+  3. Pengguna lain hanya dapat menyalin note dan membuka file yang diunggah oleh user. Pengguna lain tidak dapat melakukan tindakan lainnya, seperti membalas note yang diunggah.
+  4. File Audio dan Video yang diunggah oleh user melalui External Link tidak dapat diakses pengguna lain. File Audio dan Video hanya dapat diakses user itu sendiri melalui Resources.
          
 Perbandingan Memos dengan aplikasi website Note-taking & Editors sejenis, seperti Livebook, diantaranya:
   1. Livebook dapat menulis kode, analisis hasil, dan dokumentasi bersama-sama, secara realtime, sedangkan Memos tidak.
