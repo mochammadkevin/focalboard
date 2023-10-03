@@ -25,6 +25,7 @@ Website Memos adalah platform yang memungkinkan pengguna untuk membuat, menyimpa
 
 
 ## Instalasi
+[`^ kembali ke atas ^`](#)
 
 Sebelum Anda memulai instalasi, pastikan Anda memiliki:
 
@@ -157,6 +158,7 @@ Sebelum Anda memulai instalasi, pastikan Anda memiliki:
 - Setelah menjalankan perintah di atas, Anda dapat mengakses aplikasi Memos melalui alamat IP Droplet yang Anda gunakan beserta port yang telah ditentukan. Contoh: http://your-droplet-ip:1000/
 
 ##  Maintenance
+[`^ kembali ke atas ^`](#)
 
 ### Memperbarui Versi Memos dengan Docker
 Untuk memperbarui Memos ke versi terbaru, Anda perlu menghentikan dan menghapus kontainer lama terlebih dahulu:
@@ -177,6 +179,7 @@ docker pull ghcr.io/usememos/memos:latest
 Terakhir, jalankan kembali Memos dengan mengikuti langkah-langkah yang ada pada langkah 7
 
 ## Cara Pemakaian
+[`^ kembali ke atas ^`](#)
 ### Login Page
 ![WhatsApp Image 2023-10-03 at 10 02 58](https://github.com/mochammadkevin/memos/assets/132868704/3c7a12ea-ebff-4f2c-a948-583f21484c4a)
 - Sign up : Membuat akun baru bagi pengguna yang belum memiliki akun. Tidak dapat membuat akun dengan username yang sama. Akun dengan username yang sama akan menampilkan pesan "Failed to create user".
@@ -245,6 +248,7 @@ Pada bagian Preference, pengguna dapat menyesuaikan tema, bahasa, jenis publikas
 
 
 ## Pembahasan
+[`^ kembali ke atas ^`](#)
 Memos ditulis dalam bahasa pemrograman Golang dan TypeScript yang berfungsi dengan file db SQLite. Sebagai salah satu Note-taking & Editors, aplikasi website memiliki beberapa kelebihan, diantaranya:
 
 - Kelebihan
@@ -270,6 +274,7 @@ Perbandingan Memos dengan aplikasi website Note-taking & Editors sejenis, sepert
   4. Livebook terintegrasi dengan Elixir, Hugging Face, berbagai sumber data, perpustakaan visualisasi data, dan banyak lagi.
 
 ## Referensi
+[`^ kembali ke atas ^`](#)
 1. [About memos](https://usememos.com/) - Memos
 2. [How to Create a Droplet](https://docs.digitalocean.com/products/droplets/how-to/create/) - DigitalOcean
 3. [Install with Docker - Memos](https://usememos.com/docs/install/docker) - Memos
