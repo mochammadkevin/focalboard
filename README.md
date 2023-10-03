@@ -226,11 +226,13 @@ Pada bagian Preference, pengguna dapat menyesuaikan tema, bahasa, jenis publikas
 <p align="center">
 Tampilan My Account pada setting
 </p>
-![WhatsApp Image 2023-10-03 at 09 45 00](https://github.com/mochammadkevin/memos/assets/132868704/8af97053-ace3-43d4-8582-8b7de1bf7d6e)
+![image](https://github.com/mochammadkevin/memos/assets/118964889/b25ba0a4-ca1d-46de-91e5-98b81b53ea1d)
+
 <p align="center">
 Tampilan Preference pada setting
 </p>
-![image](https://github.com/mochammadkevin/memos/assets/118964889/7a0018d6-5a85-4f69-b1bb-ef225d8160c0)
+![image](https://github.com/mochammadkevin/memos/assets/118964889/5d7662b8-1b69-4556-b2a3-37a36966b39c)
+
 <p align="center">
 Tampilan Setting pada Admin
 </p>
